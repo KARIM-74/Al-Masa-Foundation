@@ -386,7 +386,7 @@ a{
     font-weight: 500;
     width: 95%;
     /*margin: auto;*/
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     text-transform: uppercase;
 }
 .text{
@@ -394,7 +394,7 @@ a{
     font-weight: lighter;
     font-size: 15px;
     color: #3d3d3d;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .green-btn{
@@ -565,10 +565,10 @@ header{
 /*main navigation*/
 
 header .navbar-brand img{
-    max-width: 80%;
+    max-width: 90%;
 }
 .header-appear .navbar-brand img {
-    max-width: 65%;
+    max-width: 80%;
 }
 header .navbar-brand .logo-simple{
     display: block;
@@ -1065,6 +1065,7 @@ header .main-navigation nav .navbar-nav  .nav-link:hover, header .main-navigatio
     width: 50%;
     margin: 0 auto;
     text-align: center;
+    margin-top: -20px;
 }
 .slider-area .slider-content .heading{
     color: #ffffff;
@@ -2401,7 +2402,7 @@ background-color: #FFFFFF;
         margin-top: 50px;
     }
     .sidemenu_btn {
-        right: 20px;
+        right: 70px;
         left: auto;
     }
     .side-menu .btn-close {
